@@ -1,0 +1,13 @@
+.specialazaton{
+    border: 1px solid black;
+    background-color: aqua;
+    color: black;
+    padding: 5px;
+    margin-bottom: 5px;
+}
+.btn{
+    padding: 10px;
+    border-radius: 10%;
+    background-color:#272727 ;
+    color: white;
+}

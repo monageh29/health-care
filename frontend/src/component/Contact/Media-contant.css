@@ -1,0 +1,14 @@
+
+
+ 
+  @media (min-width: 768px)and (max-width: 992px) {
+  .row{
+    flex-direction: row;
+  }
+    
+    
+    .middle{
+margin-left: 50px;
+    }
+    
+  }
